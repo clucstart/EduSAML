@@ -1,7 +1,9 @@
-# EduSAML
+## EduSAML
 Java library for SAML SP
 
-## 1.0 (Under development)
+### Update: I decided to cancel this project. OneLogin has an amazing project and documentation already.
+
+### 1.0 (Under development)
 
 * Create SP metadata
 * Read IDP metadata
